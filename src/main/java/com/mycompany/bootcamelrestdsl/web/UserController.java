@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 /**
  *
- * @author b1050502
+ * @author 
  */
 @RestController
 public class UserController {

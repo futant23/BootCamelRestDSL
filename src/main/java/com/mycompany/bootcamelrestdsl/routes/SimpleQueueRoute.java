@@ -12,7 +12,7 @@ import org.springframework.stereotype.Component;
 
 /**
  *
- * @author b1050502
+ * @author 
  */
 @Component
 public class SimpleQueueRoute extends RouteBuilder{
