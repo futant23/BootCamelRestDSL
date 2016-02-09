@@ -24,7 +24,7 @@ import org.springframework.http.HttpStatus;
 
 /**
  *
- * @author b1050502
+ * @author 
  */
 @SpringBootApplication
 public class Application extends SpringBootServletInitializer {
